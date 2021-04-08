@@ -1,0 +1,14 @@
+Hello, Raid bot made by mth
+Join our sexy discord server Project Eternal : https://discord.gg/xMKHBEUwtR
+
+To set this up you will need visual studio code and node.js
+
+1. Install vsc and node.js
+2. go to config folder and set everything up
+3. Remember to give ur bot invite perms best way do it is using 
+discord perm calc link : https://discordapi.com/permissions.html#0
+4. Invite bot to ur server 
+5. open console and do node . if that doesnt work do node main.js
+6. do .dm for all commands
+7. have fun
+
